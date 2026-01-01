@@ -3,5 +3,4 @@ pandas
 pandas_ta
 plotly
 scikit-learn
-talib-binary
 yfinance
